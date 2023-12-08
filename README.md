@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning web design
 - 😺 Aspiring system integrator
 - 📫 How to reach me: on [Twitter](https://twitter.com/TachankaKity) or on [Discord](https://discordapp.com/users/266933082106363905)
+- 🕸️ [My Github Pages site](https://tachankathekity.github.io/)
 - 😸 Pronouns: It/It's, They/She is fine but I'd heavily prefer if you use It/It's
 - ⚡ Fun fact: I'm literally a cat irl 🐱
 
