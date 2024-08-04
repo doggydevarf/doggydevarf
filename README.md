@@ -1,7 +1,7 @@
 ### Hai 🐈
 
 
-- 🐈‍⬛ I'm Julia but you can also call me Tachanka
+- 🐈‍⬛ I'm Julia and im a cat
 - 🌱 I’m currently learning web design
 - 😺 Aspiring system integrator
 - 📫 How to reach me: on [Twitter](https://twitter.com/TachankaKity) or on [Discord](https://discordapp.com/users/266933082106363905)
