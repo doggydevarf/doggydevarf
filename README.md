@@ -1,10 +1,10 @@
-### Hai 🐈
+### hai 🐈
 
 
-- I'm Julia and use It/They pronouns
-- I’m currently learning web design
-- System integrator (in 3 years)
-- Reach me on on [Discord](https://discordapp.com/users/266933082106363905) or [Twitter](https://twitter.com/techkity)
-- Fun fact: I'm literally a cat irl 🐱
+- i'm julia and use it/they pronouns
+- currently learning web design
+- system integrator (maybe in 3 years)
+- reach me on on [Discord](https://discordapp.com/users/266933082106363905) or [Twitter](https://twitter.com/techkity)
+- fun fact: i'm literally a cat irl 🐱
 
  ![Gif of a cat playing with a ball with the caption ":D"](/assets/gifs/meow.gif)
