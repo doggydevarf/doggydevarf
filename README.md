@@ -1,7 +1,7 @@
 ### hai 🐈
 
 
-- i'm julia and use it/they pronouns
+- i'm julia and use it/they/she pronouns
 - currently learning web design
 - system integrator (maybe in 3 years)
 - reach me on on [Discord](https://discordapp.com/users/266933082106363905) or [Twitter](https://twitter.com/techkity)
